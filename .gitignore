@@ -1,0 +1,16 @@
+# Виртуальное окружение
+venv/
+.venv/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller
+build/
+dist/
+
+# Логи и временные файлы
+*.log
+.DS_Store
